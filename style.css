@@ -1,0 +1,52 @@
+#cf-1{
+    display: flex;
+    background-image: url(https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    height: 550px;
+    justify-content: space-between;
+    background-size: cover;
+    background-position: bottom;
+    color: whitesmoke;
+}
+
+#c-1{
+    background-color: rgba(0, 0, 0, 0.603);
+    padding:20%;
+    margin-left: auto;
+    backdrop-filter: blur(4px);
+}
+
+#h1{
+    font-weight: bolder;
+}
+#bt{
+    color: whitesmoke;
+}
+#nav{
+    display: flex;
+
+}
+
+#nav-link{
+    text-decoration: none;
+    justify-content: space-evenly;
+    margin: 3%;
+    padding: 3%;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.603);
+    font-weight: bolder;
+    border-radius: 3%;
+    backdrop-filter: blur(3px);
+}
+
+#nav-link:hover{
+    background-color: whitesmoke;
+    color: black;
+    font-weight: lighter;
+}
+
+#footer{
+    font-weight: lighter;
+    text-align: center;
+    padding: 2%;
+}
